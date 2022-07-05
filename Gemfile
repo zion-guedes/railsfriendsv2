@@ -20,7 +20,7 @@ end
 
 group :development do  
   gem "web-console"
-  gem "sqlite3", "~> 1.4"
+  #gem "sqlite3", "~> 1.4"
 end
 
 group :production do 
